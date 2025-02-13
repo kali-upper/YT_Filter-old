@@ -46,11 +46,11 @@ export const Education = () => {
       >
         <h3 className="text-xl font-semibold mb-4 dark:text-white">سيتم إضافة المزيد من الفيديوهات قريباً</h3>
         <p className="dark:text-gray-300">
-          يمكنك إقتراح فيديوهات عن طريق
-          <a 
-            href="https://wa.me/+201207688761" 
+          يمكنك إقتراح فيديوهات عن طريق{" "}
+          <a
+            href="https://wa.me/+201207688761"
             className="inline-flex items-center gap-2 px-4 py-2 bg-green-600 text-white rounded-full hover:bg-green-700 transition-colors"
-            target="_blank" 
+            target="_blank"
             rel="noopener noreferrer"
           >
             واتساب
