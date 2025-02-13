@@ -10,6 +10,10 @@ export const Education = () => {
     {
       id: "GQatiB-JHdI",
       title: "How does an Electric Motor work? DC Motor explained"
+    },
+    {
+      id: "d86ws7mQYIg",
+      title: "New Video - Added to the List"
     }
   ];
 
