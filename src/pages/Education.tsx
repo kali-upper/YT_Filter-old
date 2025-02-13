@@ -13,7 +13,7 @@ export const Education = () => {
     },
     {
       id: "d86ws7mQYIg",
-      title: "New Video - Added to the List"
+      title: "How does Computer Hardware Work? 💻🛠🔬 [3D Animated Teardown]"
     }
   ];
 
