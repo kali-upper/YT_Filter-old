@@ -53,7 +53,7 @@ export const Programming = () => {
             target="_blank" 
             rel="noopener noreferrer"
           >
-            واتساب
+            <bdi>واتساب</bdi>
           </a>
         </p>
       </motion.div>
