@@ -9,7 +9,7 @@ export const Entertainment = () => {
     },
     {
       id: "rK5E9w4z4nQ",
-      title: "ليه الطيارة متقفش في الجو وتستنى الارض تلف تحتها"
+      title: "ليه الطيارة متقفش في الجو وتستنى الأرض تلف تحتها"
     }
   ];
 
@@ -41,15 +41,15 @@ export const Entertainment = () => {
         transition={{ delay: 0.4 }}
       >
         <h3 className="text-xl font-semibold mb-4 dark:text-white">سيتم إضافة المزيد من الفيديوهات قريباً</h3>
-        <p className="dark:text-gray-300">
-          يمكنك إقتراح فيديوهات عن طريق{' '}
+        <p className="dark:text-gray-300" dir="rtl">
+          يمكنك اقتراح فيديوهات عن طريق{' '}
           <a 
             href="https://wa.me/+201207688761" 
             className="inline-flex items-center gap-2 px-4 py-2 bg-green-600 text-white rounded-full hover:bg-green-700 transition-colors"
             target="_blank" 
             rel="noopener noreferrer"
           >
-            واتساب
+            <bdi>واتساب</bdi>
           </a>
         </p>
       </motion.div>
