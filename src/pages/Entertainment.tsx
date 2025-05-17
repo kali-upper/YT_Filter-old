@@ -4,8 +4,8 @@ import { VideoCard } from '../components/VideoCard';
 export const Entertainment = () => {
   const videos = [
     {
-      id: "_tfT4AGZLFw",
-      title: "أقوى الردود المفحمة في المواقف المحرجة تعلم ذكاء الرد في المواقف الصعبة وأجمل طرائف العرب ونوادرهم"
+      id: "JsEpRa5aIKg",
+      title: "من طرائف العرب ونوادرهم",
     },
     {
       id: "rK5E9w4z4nQ",
