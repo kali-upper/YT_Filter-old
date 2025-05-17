@@ -4,17 +4,29 @@ import { VideoCard } from '../components/VideoCard';
 export const Education = () => {
   const videos = [
     {
-      id: "59HBoIXzX_c",
-      title: "How Electric Motors Work - 3 phase AC induction motors ac motor"
-    },
-    {
-      id: "GQatiB-JHdI",
-      title: "How does an Electric Motor work? DC Motor explained"
+      id: "G1Ke-H8I1uk",
+      title: "How Does LIGHT Carry Data? - Fiber Optics Explained",
     },
     {
       id: "d86ws7mQYIg",
-      title: "How does Computer Hardware Work? 💻🛠🔬 [3D Animated Teardown]"
-    }
+      title: "How does Computer Hardware Work? 💻🛠🔬 [3D Animated Teardown]",
+    },
+    {
+      id: "59HBoIXzX_c",
+      title: "How Electric Motors Work - 3 phase AC induction motors ac motor",
+    },
+    {
+      id: "GQatiB-JHdI",
+      title: "How does an Electric Motor work? DC Motor explained",
+    },
+    {
+      id: "CWulQ1ZSE3c",
+      title: "How does an Electric Motor work? (DC Motor) Simplified",
+    },
+    {
+      id: "64WEeDVOCUM",
+      title: "How To jailbreak ChatGPT",
+    },
   ];
 
   return (
